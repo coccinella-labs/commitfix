@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/commitfix/main/.github/assets/thumbnail.png" alt="commitfix" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/commitfix/main/.github/assets/thumbnail.png" alt="commitfix" width="100%">
 </p>
 
 # commitfix
